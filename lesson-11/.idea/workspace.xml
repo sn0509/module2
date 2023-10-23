@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="887d4f79-65b3-4c92-bfe7-4cd5123b46c5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/src/MyGenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/src/MyGenericStackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/stack_in_LinkedList.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson-08/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson-08/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson-08/refactoring_tenis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson-08/refactoring_tenis/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2X1MUqn8SXN2raiWlVO6t35cfln" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/CodeGym/module2/source/module2/lesson-11/11_1_TH_stack_in_LinkedList",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="887d4f79-65b3-4c92-bfe7-4cd5123b46c5" name="Changes" comment="" />
+      <created>1697792150843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697792150843</updated>
+      <workItem from="1697792151853" duration="114000" />
+      <workItem from="1698025447931" duration="188000" />
+      <workItem from="1698026370119" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
