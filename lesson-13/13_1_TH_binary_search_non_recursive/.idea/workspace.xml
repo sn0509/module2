@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03d72254-2a78-4583-9d95-5512476cd5c3" name="Changes" comment="" />
+    <list default="true" id="03d72254-2a78-4583-9d95-5512476cd5c3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_10_BT_Bracket_check/test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson-11/11_10_BT_Bracket_check/test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_10_BT_Bracket_check/test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson-11/11_10_BT_Bracket_check/test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_4_BT_count_in_array_with_map/count_in_array/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson-11/11_4_BT_count_in_array_with_map/count_in_array/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/src/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2XFEOMFFOmk3G0otcqJHQyIceE1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,6 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/CodeGym/module2/source/module2/lesson-13/13_1_TH_binary_search_non_recursive",
     "vue.rearranger.settings.migration": "true"
   }
@@ -33,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698216396057</updated>
       <workItem from="1698216397023" duration="28000" />
+      <workItem from="1698374102270" duration="37000" />
     </task>
     <servers />
   </component>

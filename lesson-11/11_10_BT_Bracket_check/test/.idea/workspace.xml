@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8229d04d-ed6c-47fc-b926-754a01e5f649" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/src/IsPolindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11_4_BT_count_in_array_with_map/count_in_array/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../11_4_BT_count_in_array_with_map/count_in_array/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/src/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/CodeGym/module2/source/module2/lesson-13/13_1_TH_binary_search_non_recursive",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,6 +58,7 @@
       <workItem from="1698072050857" duration="743000" />
       <workItem from="1698115647812" duration="812000" />
       <workItem from="1698130000200" duration="12000" />
+      <workItem from="1698373809073" duration="290000" />
     </task>
     <servers />
   </component>

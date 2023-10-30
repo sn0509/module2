@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c414a95-bb6c-41ce-b204-9d942b5652b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/src/IsPolindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="4c414a95-bb6c-41ce-b204-9d942b5652b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,9 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2XKIg6MB4Lik2ydOtGwpqbY196s" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,7 +24,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/CodeGym/module2/source/module2/lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/src",
+    "last_opened_file_path": "D:/CodeGym/module2/source/module2/lesson-11/11_4_BT_count_in_array_with_map/count_in_array/src",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -41,6 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698371452790</updated>
       <workItem from="1698371453792" duration="7000" />
+      <workItem from="1698371853331" duration="41000" />
     </task>
     <servers />
   </component>

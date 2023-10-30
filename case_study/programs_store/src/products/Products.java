@@ -4,7 +4,7 @@ public class Products {
 
     private String productsName;
 
-    private double price;
+    private double prices;
 
     private int quantity;
 
@@ -17,11 +17,11 @@ public class Products {
     }
 
     public double getPrice() {
-        return price;
+        return prices;
     }
 
     public void setPrice(double price) {
-        this.price = price;
+        this.prices = price;
     }
 
     public int getQuantity() {
@@ -32,8 +32,18 @@ public class Products {
         this.quantity = quantity;
     }
 
-    public Products(String productsName,double price, int quantity){
-
+    public Products(String productsName,double prices, int quantity){
+        this.productsName=productsName;
+        this.prices=prices;
+        this.quantity=quantity;
     }
 
+    @Override
+    public String toString() {
+        return "Products{" +
+                "productsName='" + productsName + '\'' +
+                ", price=" + prices +
+                ", quantity=" + quantity +
+                '}';
+    }
 }
