@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c3c95ad-54e6-4316-ab0c-774c82b76cfc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/CaseStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson-17/17_1_TH_Copy_File/copy_file/copy_file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/student/student.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson-19/19_1_TH_validate_email/validate_email/validate_email.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson-19/19_2_Th_account_validate/validate_account/validate_account.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asd/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asd/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asd/asd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../asd/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu/Command.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu/ExecuteCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu/MenuItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu/MenuMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu/NevigationLoginMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu/NevigationMainMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Menu/UndoCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User/Seller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User/UserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User/UserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User/UserProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserInput/ProcessInputData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserInput/UserInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Voucher/BusinessStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Voucher/FivePercent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Voucher/TenPercent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Voucher/TwentyPercent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Voucher/Voucher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/case_study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/ExitCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/LoginCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/RegisterCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user_list_data/UserReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user_list_data/UserWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/factory_tesrt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/src/Bicycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/src/CarInformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/src/CreateCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/src/MotoBike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/src/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/src/VehicleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_tesrt/src/VehicleProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/EmailExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/EmailExampleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Xmh1VfT2iBE7xQrgHKGq6FEMc3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/CodeGym/module2/source/module2/CaseStudy/case_study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "database.data.csv.formats",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c3c95ad-54e6-4316-ab0c-774c82b76cfc" name="Changes" comment="" />
+      <created>1699239948205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699239948205</updated>
+      <workItem from="1699239949622" duration="6691000" />
+      <workItem from="1699250137626" duration="1779000" />
+      <workItem from="1699264638926" duration="260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

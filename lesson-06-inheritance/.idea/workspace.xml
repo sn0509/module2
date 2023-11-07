@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7949df5f-723f-417d-aa0c-f847e6f83a0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson-06-inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/Point2D/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/Point2D/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/Point2D/TestPoint2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/Point2D/TestPoint3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/declaration/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/declaration/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/declaration/PhoneManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/declaration/Samsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry/GeometryManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry/TriangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry/comparable/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry/comparable/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry/comparator/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry/comparator/CircleComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry/comparator/Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry2/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry2/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/geometry2/CylinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/override/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/override/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/override/ShapeManagement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/point_moveablepoint/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/point_moveablepoint/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/point_moveablepoint/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/tostring/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codegym/declaration/tostring/CircleManagement.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2WgpqhtXLI5Cf6QjZNnNghpe1i7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Son Nguyen/Downloads/Compressed/apj-2023-fizzbuzz-develop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/CodeGym/module2/source/lesson-06-inheritance/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CircleTest">
+    <configuration name="CircleManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.declaration.tostring.CircleManagement" />
+      <module name="lesson-06-inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.declaration.tostring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.declaration.geometry2.CircleTest" />
+      <module name="lesson-06-inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.declaration.geometry2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CylinderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.declaration.geometry2.CylinderTest" />
+      <module name="lesson-06-inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.declaration.geometry2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeometryManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.declaration.geometry.GeometryManagement" />
+      <module name="lesson-06-inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.declaration.geometry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.declaration.override.ShapeManagement" />
+      <module name="lesson-06-inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.declaration.override.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CircleTest" />
+        <item itemvalue="Application.CylinderTest" />
+        <item itemvalue="Application.GeometryManagement" />
+        <item itemvalue="Application.CircleManagement" />
+        <item itemvalue="Application.ShapeManagement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7949df5f-723f-417d-aa0c-f847e6f83a0b" name="Changes" comment="" />
+      <created>1697164270243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697164270243</updated>
+      <workItem from="1697164271256" duration="4391000" />
+      <workItem from="1697171439350" duration="37000" />
+      <workItem from="1697179363839" duration="4488000" />
+      <workItem from="1697184060230" duration="3973000" />
+      <workItem from="1697529314067" duration="704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/codegym/declaration/declaration/PhoneManagement.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
