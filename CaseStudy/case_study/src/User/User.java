@@ -1,33 +1,38 @@
 package User;
 
 public abstract class User {
-    private int userId;
+    private String userID;
     private String userName;
     private String passWord;
-    private UserType userType;
+    private String confirmPassword;
+    private String userType;
     private String fullName;
     private String email;
     private String phoneNumber;
+    private double balance;
     private boolean isActive;
 
-    public User(int userId, String userName, String passWord, UserType userType, String fullName, String email,
-                String phoneNumber, boolean isActive) {
-        this.userId = userId;
+
+
+    public User( String userID,String userName, String passWord, String userType, String fullName, String email,
+                String phoneNumber, double balance, boolean isActive) {
+        this.userID=userID;
         this.userName = userName;
         this.passWord = passWord;
         this.userType = userType;
         this.fullName = fullName;
         this.email = email;
         this.phoneNumber = phoneNumber;
+        this.balance = balance;
         this.isActive = isActive;
     }
 
-    public int getUserId() {
-        return userId;
+    public String getUserId() {
+        return userID;
     }
 
-    public void setUserId(int userId) {
-        this.userId = userId;
+    public void setUserId(String userId) {
+        this.userID = userId;
     }
 
     public String getUserName() {
@@ -46,11 +51,11 @@ public abstract class User {
         this.passWord = passWord;
     }
 
-    public UserType getUserType() {
+    public String getUserType() {
         return userType;
     }
 
-    public void setUserType(UserType userType) {
+    public void setUserType(String userType) {
         this.userType = userType;
     }
 
@@ -88,15 +93,15 @@ public abstract class User {
 
     @Override
     public String toString() {
-        return "User{" +
-                "userId=" + userId +
+        return  "userId=" + userID +
                 ", userName='" + userName + '\'' +
                 ", passWord='" + passWord + '\'' +
                 ", userType=" + userType +
                 ", fullName='" + fullName + '\'' +
                 ", email='" + email + '\'' +
                 ", phoneNumber='" + phoneNumber + '\'' +
-                ", isActive=" + isActive +
-                '}';
+                ", blance =' " + balance + '\'' +
+                ", isActive=" + isActive
+               ;
     }
 }
