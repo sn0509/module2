@@ -1,13 +1,10 @@
+import menu.itemList.HomePage;
+
+
 public class Main {
     public static void main(String[] args) {
-        UserManager userManager =new UserManager();
-        userManager.userRegister();
+        HomePage homePage = new HomePage();
+        homePage.navigate();
 
     }
 }
-//}
-//    @Test
-//    public void run(){
-//        UserManager.userRegister();
-//    }
-//}

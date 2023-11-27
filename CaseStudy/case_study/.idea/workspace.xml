@@ -4,973 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c3c95ad-54e6-4316-ab0c-774c82b76cfc" name="Changes" comment="">
+    <list default="true" id="b5dd08fa-4931-45d1-92c8-8fada0af3fb5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CaseStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mindrot_jbcrypt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/opencsv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/spring-security-crypto-6.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/spring_security_crypto_6_1_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/CaseStudy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/case_study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/User/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User/Admin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/User/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/User/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User/Seller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/User/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/User/UserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User/UserFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserData/userData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserData/userData.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/ReadDataFromFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Operator-Expression/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Operator-Expression/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Operator-Expression/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Operator-Expression/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Operator-Expression/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Operator-Expression/Operator-Expression.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Operator-Expression/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Operator-Expression/src/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Variable-DataType/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Variable-DataType/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Variable-DataType/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Variable-DataType/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Variable-DataType/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Variable-DataType/Variable-DataType.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Variable-DataType/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/Variable-DataType/src/VariableDataType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/bmi-calculartor/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/bmi-calculartor/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/bmi-calculartor/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/bmi-calculartor/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/bmi-calculartor/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/bmi-calculartor/bmi-calculartor.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/bmi-calculartor/src/BmiCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/bmi-calculartor/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/convert-money/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/convert-money/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/convert-money/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/convert-money/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/convert-money/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/convert-money/convert-money.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/convert-money/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/day-of-month/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/day-of-month/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/day-of-month/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/day-of-month/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/day-of-month/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/day-of-month/day-of-month.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/day-of-month/src/DayOfMonth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/day-of-month/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/leap-year-calculator/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/leap-year-calculator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/leap-year-calculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/leap-year-calculator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/leap-year-calculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/leap-year-calculator/leap-year-calculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/leap-year-calculator/src/LeapYearCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/leap-year-calculator/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/lesson 01.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/linear-equation-resolver/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/linear-equation-resolver/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/linear-equation-resolver/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/linear-equation-resolver/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/linear-equation-resolver/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/linear-equation-resolver/linear-equation-resolver.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/linear-equation-resolver/src/LinearEquationResolver.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/linear-equation-resolver/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/money-convert/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/money-convert/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/money-convert/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/money-convert/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/money-convert/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/money-convert/money-convert.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/money-convert/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/money-convert/src/MoneyConvert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-word/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-word/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-word/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-word/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-word/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-word/number-to-word.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-word/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-word/src/NumberToWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-world/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-world/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-world/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-world/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-world/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-world/number-to-world.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/number-to-world/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/out/production/lesson 01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/out/production/lesson 01/com/codegym/helloworld/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/out/production/lesson 01/com/codegym/helloworld/variable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/show-message/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/show-message/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/show-message/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/show-message/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/show-message/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/show-message/show-message.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/show-message/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/show-message/src/ShowMessage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/src/com/codegym/helloworld/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/src/com/codegym/helloworld/variable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/system-time/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/system-time/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/system-time/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/system-time/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/system-time/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/system-time/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/system-time/src/SystemTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 01/system-time/system-time.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-geometry/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-geometry/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-geometry/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-geometry/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-geometry/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-geometry/draw-geometry.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-geometry/src/DrawGeometry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-geometry/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-image/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-image/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-image/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-image/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-image/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-image/draw-image.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-image/src/DrawImage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-image/src/DrawPicture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-image/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-image/src/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/draw-image/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/greatest-common-divisor/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/greatest-common-divisor/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/greatest-common-divisor/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/greatest-common-divisor/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/greatest-common-divisor/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/greatest-common-divisor/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/greatest-common-divisor/greatest-common-divisor.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/greatest-common-divisor/greatest-common-factor.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/greatest-common-divisor/src/GreatestCommonFactor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/greatest-common-divisor/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/loan-interest/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/loan-interest/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/loan-interest/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/loan-interest/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/loan-interest/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/loan-interest/loan-interest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/loan-interest/src/LoanInterest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/loan-interest/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/prime-number-checker/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/prime-number-checker/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/prime-number-checker/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/prime-number-checker/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/prime-number-checker/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/prime-number-checker/prime-number-checker.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/prime-number-checker/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/prime-number-checker/src/PrimeNumberChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/prime-number-checker/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/while-loop/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/while-loop/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/while-loop/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/while-loop/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/while-loop/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/while-loop/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/while-loop/src/WhileLoop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 02/while-loop/while-loop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/add-element-array/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/add-element-array/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/add-element-array/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/add-element-array/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/add-element-array/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/add-element-array/add-element-array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/add-element-array/src/AddElementArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/add-element-array/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/add-element-array/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/com.codegym.static/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/com.codegym.static/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/com.codegym.static/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/com.codegym.static/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/com.codegym.static/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/com.codegym.static/com.codegym.static.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/com.codegym.static/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/convert-temperature/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/convert-temperature/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/convert-temperature/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/convert-temperature/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/convert-temperature/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/convert-temperature/convert-temperature.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/convert-temperature/src/ConvertTemperature.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/convert-temperature/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/delete-element-array/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/delete-element-array/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/delete-element-array/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/delete-element-array/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/delete-element-array/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/delete-element-array/delete-element-array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/delete-element-array/src/DeleteElementArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/delete-element-array/src/DeleteElementArray2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/delete-element-array/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-max-element/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-max-element/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-max-element/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-max-element/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-max-element/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-max-element/find-max-element.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-max-element/src/FindMaxElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-max-element/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-min-element/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-min-element/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-min-element/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-min-element/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-min-element/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-min-element/find-min-element.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-min-element/src/FindMinElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/find-min-element/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/max-in-2-dimensional-arrays/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/max-in-2-dimensional-arrays/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/max-in-2-dimensional-arrays/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/max-in-2-dimensional-arrays/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/max-in-2-dimensional-arrays/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/max-in-2-dimensional-arrays/max-in-2-dimensional-arrays.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/max-in-2-dimensional-arrays/src/FindMax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/max-in-2-dimensional-arrays/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/merge-array/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/merge-array/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/merge-array/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/merge-array/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/merge-array/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/merge-array/merge-array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/merge-array/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/merge-array/src/MergeArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/min-of-array/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/min-of-array/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/min-of-array/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/min-of-array/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/min-of-array/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/min-of-array/min-of-array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/min-of-array/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/min-of-array/src/MinOfArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/register/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/register/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/register/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/register/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/register/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/register/register.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/register/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/register/src/Register.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/reverse-array/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/reverse-array/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/reverse-array/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/reverse-array/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/reverse-array/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/reverse-array/reverse-array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/reverse-array/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/reverse-array/src/ReverseArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/student-array/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/student-array/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/student-array/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/student-array/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/student-array/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/student-array/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/student-array/src/StudentArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 03/student-array/student-array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/fan/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/fan/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/fan/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/fan/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/fan/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/fan/fan.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/fan/src/Fan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/fan/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/quadratic-equation/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/quadratic-equation/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/quadratic-equation/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/quadratic-equation/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/quadratic-equation/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/quadratic-equation/quadratic-equation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/quadratic-equation/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/quadratic-equation/src/QuadraticEquation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/rectangle/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/rectangle/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/rectangle/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/rectangle/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/rectangle/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/rectangle/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/rectangle/rectangle.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/rectangle/src/asdas/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/rectangle/src/asdasdasd/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/stop-watch/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/stop-watch/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/stop-watch/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/stop-watch/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/stop-watch/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/stop-watch/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/stop-watch/src/StopWatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 04/stop-watch/stop-watch.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/9. TestFirst.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/FizzBuzz/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/FizzBuzz/FizzBuzz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/FizzBuzz/Test/NumberCalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/FizzBuzz/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/FizzBuzz/src/NumberCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/absolute_number_calculator/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/absolute_number_calculator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/absolute_number_calculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/absolute_number_calculator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/absolute_number_calculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/absolute_number_calculator/absolute_number_calculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/absolute_number_calculator/src/AbsoluteNumberCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/absolute_number_calculator/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/absolute_number_calculator/test/AbsoluteNumberCalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/calculate_test/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/calculate_test/SimpleCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/calculate_test/SimpleCalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/com.codegym.dsa/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/com.codegym.dsa/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/com.codegym.dsa/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/com.codegym.dsa/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/com.codegym.dsa/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/com.codegym.dsa/com.codegym.dsa.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/com.codegym.dsa/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/nextday_calculator/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/nextday_calculator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/nextday_calculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/nextday_calculator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/nextday_calculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/nextday_calculator/nextday_calculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/nextday_calculator/src/LeapYear.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/nextday_calculator/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/nextday_calculator/src/NextDayCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/type_of_triangle/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/type_of_triangle/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/type_of_triangle/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/type_of_triangle/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/type_of_triangle/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/type_of_triangle/Test/TriangleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/type_of_triangle/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/type_of_triangle/src/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson 09/type_of_triangle/type_of_triangle.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/lesson-06-inheritance.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/codegym.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/comparator/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/comparator/CircleComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/Point2D/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/Point2D/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/Point2D/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/Point2D/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/Point2D/Point2D.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/Point2D/Point2D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/Point2D/Point3D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/Point2D/TestPoint2D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/Point2D/TestPoint3D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/declaration/Iphone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/declaration/Phone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/declaration/PhoneManagement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/declaration/Samsung.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry/ComparableCircle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry/GeometryManagement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry/TriangleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry/comparable/Comparable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry/comparable/ComparableCircleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry/comparator/CircleComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry/comparator/CircleComparatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry/comparator/Comparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry2/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry2/CircleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry2/Cylinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/geometry2/CylinderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/override/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/override/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/override/ShapeManagement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/point_moveablepoint/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/point_moveablepoint/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/point_moveablepoint/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/point_moveablepoint/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/point_moveablepoint/MovablePoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/point_moveablepoint/Point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/point_moveablepoint/PointTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/point_moveablepoint/point_moveablepoint.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/tostring/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-06-inheritance/src/com/codegym/declaration/tostring/CircleManagement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/lesson-07-interface-abstractclass.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/animal/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/animal/AnimalTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/animal/Chicken.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/animal/Edible.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/animal/Tiger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/edible/Edible.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/fruit/Apple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/fruit/Fruit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/fruit/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/fruit/Orange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/fruit/TestFruit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/resizeable_colorable/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/resizeable_colorable/CircleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/resizeable_colorable/Colorable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/resizeable_colorable/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/resizeable_colorable/RectangleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/resizeable_colorable/Resizeable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/resizeable_colorable/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/resizeable_colorable/ShapeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/resizeable_colorable/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/src/com/codegym/interface_abstract_class/animal_interfac/resizeable_colorable/SquareTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/test-comparator/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/test-comparator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/test-comparator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/test-comparator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/test-comparator/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/test-comparator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/test-comparator/src/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/test-comparator/src/CircleComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/test-comparator/src/CircleComparatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-07/test-comparator/test-comparator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/Clynder/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/Clynder/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/Clynder/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/Clynder/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/Clynder/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/Clynder/Clynder.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/Clynder/src/Cylinder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/Clynder/src/CylinderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/Clynder/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/calculator/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/calculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/calculator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/calculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/calculator/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/calculator/calculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/calculator/src/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/calculator/src/CalculatorTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/calculator/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/fizz_buzz/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/fizz_buzz/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/fizz_buzz/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/fizz_buzz/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/fizz_buzz/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/fizz_buzz/fizz_buzz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/fizz_buzz/src/FizzBuzz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/fizz_buzz/src/FizzBuzzTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/fizz_buzz/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/lesson-08.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/Clynder/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/Clynder/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/Clynder/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/Clynder/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/Clynder/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/Clynder/Clynder.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/binary_to_decimal/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/binary_to_decimal/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/binary_to_decimal/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/binary_to_decimal/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/binary_to_decimal/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/binary_to_decimal/binary_to_decimal.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/calculator/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/calculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/calculator/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/calculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/calculator/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/calculator/calculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/count_in_map/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/count_in_map/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/count_in_map/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/count_in_map/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/count_in_map/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/count_in_map/count_in_map.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/fizz_buzz/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/fizz_buzz/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/fizz_buzz/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/fizz_buzz/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/fizz_buzz/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/fizz_buzz/fizz_buzz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/generic-stack/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/generic-stack/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/generic-stack/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/generic-stack/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/generic-stack/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/generic-stack/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/generic-stack/generic-stack.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/lesson-08.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/palindrome_check/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/palindrome_check/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/palindrome_check/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/palindrome_check/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/palindrome_check/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/palindrome_check/palindrome_check.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/queue/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/queue/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/queue/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/queue/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/queue/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/queue/queue.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/refactoring_tenis/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/refactoring_tenis/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/refactoring_tenis/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/refactoring_tenis/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/refactoring_tenis/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/refactoring_tenis/refactoring_tenis.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/reverse_static/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/reverse_static/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/reverse_static/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/reverse_static/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/reverse_static/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/out/production/lesson-08/reverse_static/reverse_static.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/refactoring_tenis/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/refactoring_tenis/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/refactoring_tenis/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/refactoring_tenis/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/refactoring_tenis/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/refactoring_tenis/refactoring_tenis.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/refactoring_tenis/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-08/refactoring_tenis/src/TennisGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_10_BT_Bracket_check/test/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_10_BT_Bracket_check/test/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_10_BT_Bracket_check/test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_10_BT_Bracket_check/test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_10_BT_Bracket_check/test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_10_BT_Bracket_check/test/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_10_BT_Bracket_check/test/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_10_BT_Bracket_check/test/test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_1_TH_stack_in_LinkedList/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_1_TH_stack_in_LinkedList/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_1_TH_stack_in_LinkedList/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_1_TH_stack_in_LinkedList/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/11_1_TH_stack_in_LinkedList.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/src/MyGenericStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/src/MyGenericStackClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_1_TH_stack_in_LinkedList/stack_in_LinkedList/stack_in_LinkedList.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_2_Th_queue_in_LinkedList/queue_ in_LinkedList/queue_in_LinkedList/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_2_Th_queue_in_LinkedList/queue_ in_LinkedList/queue_in_LinkedList/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_2_Th_queue_in_LinkedList/queue_ in_LinkedList/queue_in_LinkedList/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_2_Th_queue_in_LinkedList/queue_ in_LinkedList/queue_in_LinkedList/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_2_Th_queue_in_LinkedList/queue_ in_LinkedList/queue_in_LinkedList/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_2_Th_queue_in_LinkedList/queue_ in_LinkedList/queue_in_LinkedList/queue_in_LinkedList.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_2_Th_queue_in_LinkedList/queue_ in_LinkedList/queue_in_LinkedList/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_2_Th_queue_in_LinkedList/queue_ in_LinkedList/queue_in_LinkedList/src/MyLinkedListQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_2_Th_queue_in_LinkedList/queue_ in_LinkedList/queue_in_LinkedList/src/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_3_BT_reverse_number_with_stack/reverst_number/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_3_BT_reverse_number_with_stack/reverst_number/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_3_BT_reverse_number_with_stack/reverst_number/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_3_BT_reverse_number_with_stack/reverst_number/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_3_BT_reverse_number_with_stack/reverst_number/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_3_BT_reverse_number_with_stack/reverst_number/reverst_number.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_3_BT_reverse_number_with_stack/reverst_number/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_4_BT_count_in_array_with_map/count_in_array/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_4_BT_count_in_array_with_map/count_in_array/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_4_BT_count_in_array_with_map/count_in_array/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_4_BT_count_in_array_with_map/count_in_array/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_4_BT_count_in_array_with_map/count_in_array/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_4_BT_count_in_array_with_map/count_in_array/count_in_array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_4_BT_count_in_array_with_map/count_in_array/src/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_4_BT_count_in_array_with_map/count_in_array/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_4_BT_count_in_array_with_map/count_in_array/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_4_BT_count_in_array_with_map/count_in_array/src/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_4_BT_count_in_array_with_map/count_in_array/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_4_BT_count_in_array_with_map/count_in_array/src/count_in_array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_6_TH_queue_in_array/queu_in_array/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_6_TH_queue_in_array/queu_in_array/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_6_TH_queue_in_array/queu_in_array/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_6_TH_queue_in_array/queu_in_array/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_6_TH_queue_in_array/queu_in_array/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_6_TH_queue_in_array/queu_in_array/queu_in_array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_6_TH_queue_in_array/queu_in_array/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_6_TH_queue_in_array/queu_in_array/src/MyQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_6_TH_queue_in_array/queu_in_array/src/QueueClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_7_TH_stack_in_array/stack_in_array/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_7_TH_stack_in_array/stack_in_array/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_7_TH_stack_in_array/stack_in_array/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_7_TH_stack_in_array/stack_in_array/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_7_TH_stack_in_array/stack_in_array/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_7_TH_stack_in_array/stack_in_array/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_7_TH_stack_in_array/stack_in_array/src/MyStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_7_TH_stack_in_array/stack_in_array/src/MyStackClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_7_TH_stack_in_array/stack_in_array/stack_in_array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_8_BT_convert_decimal_to_binary/decimal_to_binary/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_8_BT_convert_decimal_to_binary/decimal_to_binary/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_8_BT_convert_decimal_to_binary/decimal_to_binary/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_8_BT_convert_decimal_to_binary/decimal_to_binary/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_8_BT_convert_decimal_to_binary/decimal_to_binary/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_8_BT_convert_decimal_to_binary/decimal_to_binary/decimal_to_binary.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_8_BT_convert_decimal_to_binary/decimal_to_binary/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/11_9_BT_Palindrome_check.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/out/production/11_9_BT_Palindrome_check/IsPolindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/out/production/11_9_BT_Palindrome_check/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/palindrome_check.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/src/IsPolindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-11/11_9_BT_Palindrome_check/palindrome_check/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_1_TH_list_of_student/list_of_student/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_1_TH_list_of_student/list_of_student/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_1_TH_list_of_student/list_of_student/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_1_TH_list_of_student/list_of_student/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_1_TH_list_of_student/list_of_student/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_1_TH_list_of_student/list_of_student/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_1_TH_list_of_student/list_of_student/list_of_student.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_1_TH_list_of_student/list_of_student/src/TestMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_2_Th_hashmap_hashset/hashmap_hashset/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_2_Th_hashmap_hashset/hashmap_hashset/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_2_Th_hashmap_hashset/hashmap_hashset/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_2_Th_hashmap_hashset/hashmap_hashset/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_2_Th_hashmap_hashset/hashmap_hashset/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_2_Th_hashmap_hashset/hashmap_hashset/hashmap_hashset.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_2_Th_hashmap_hashset/hashmap_hashset/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_2_Th_hashmap_hashset/hashmap_hashset/src/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/comperator_comperable/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/comperator_comperable/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/comperator_comperable/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/comperator_comperable/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/comperator_comperable/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/comperator_comperable/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/comperator_comperable/comperator_comperable.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/comperator_comperable/src/AgeComperator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/comperator_comperable/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/comperator_comperable/src/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/hashmap_linkedhashmap_treemap/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/hashmap_linkedhashmap_treemap/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/hashmap_linkedhashmap_treemap/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/hashmap_linkedhashmap_treemap/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/hashmap_linkedhashmap_treemap/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/hashmap_linkedhashmap_treemap/hashmap_linkedhashmap_treemap.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_3_Th_comperable_comperator/hashmap_linkedhashmap_treemap/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/arraylist_linkedlist.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/src/InputProcessing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/src/Menu/MenuInput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/src/Menu/Navigation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/src/Menu/UserInput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/src/constant/Constants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/src/entity/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/src/entity/ProductInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/src/service/ProductManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/arraylist_linkedlist/src/test/productTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/hashmap_linkedhashmap_treemap/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/hashmap_linkedhashmap_treemap/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/hashmap_linkedhashmap_treemap/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/hashmap_linkedhashmap_treemap/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/hashmap_linkedhashmap_treemap/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/hashmap_linkedhashmap_treemap/hashmap_linkedhashmap_treemap.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-12/12_4_Th_arraylist_linkedlist_javacollection/hashmap_linkedhashmap_treemap/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_1_TH_binary_search_non_recursive/.idea/13_1_TH_binary_search_non_recursive.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_1_TH_binary_search_non_recursive/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_1_TH_binary_search_non_recursive/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_1_TH_binary_search_non_recursive/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_1_TH_binary_search_non_recursive/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_1_TH_binary_search_non_recursive/binary_search/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_1_TH_binary_search_non_recursive/binary_search/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_1_TH_binary_search_non_recursive/binary_search/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_1_TH_binary_search_non_recursive/binary_search/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_1_TH_binary_search_non_recursive/binary_search/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_1_TH_binary_search_non_recursive/binary_search/binary_search.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_1_TH_binary_search_non_recursive/binary_search/src/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_1_TH_binary_search_non_recursive/binary_search/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_2_BT_search_largest_string/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_2_BT_search_largest_string/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_2_BT_search_largest_string/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_2_BT_search_largest_string/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_2_BT_search_largest_string/13_2_BT_search_largest_string.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_2_BT_search_largest_string/search_largest_string/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_2_BT_search_largest_string/search_largest_string/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_2_BT_search_largest_string/search_largest_string/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_2_BT_search_largest_string/search_largest_string/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_2_BT_search_largest_string/search_largest_string/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_2_BT_search_largest_string/search_largest_string/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_2_BT_search_largest_string/search_largest_string/search_largest_string.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_2_BT_search_largest_string/search_largest_string/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_2_BT_search_largest_string/search_largest_string/src/SearchLargestString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_3_TH_complexity_of_the_algorithm/complexity_of_the_algorithm/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_3_TH_complexity_of_the_algorithm/complexity_of_the_algorithm/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_3_TH_complexity_of_the_algorithm/complexity_of_the_algorithm/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_3_TH_complexity_of_the_algorithm/complexity_of_the_algorithm/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_3_TH_complexity_of_the_algorithm/complexity_of_the_algorithm/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_3_TH_complexity_of_the_algorithm/complexity_of_the_algorithm/complexity_of_the_algorithm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_3_TH_complexity_of_the_algorithm/complexity_of_the_algorithm/src/AlgorithmComplexityTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_3_TH_complexity_of_the_algorithm/complexity_of_the_algorithm/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_4_BT_binary_search_with_recursion/binary_search_used_recursion/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_4_BT_binary_search_with_recursion/binary_search_used_recursion/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_4_BT_binary_search_with_recursion/binary_search_used_recursion/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_4_BT_binary_search_with_recursion/binary_search_used_recursion/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_4_BT_binary_search_with_recursion/binary_search_used_recursion/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_4_BT_binary_search_with_recursion/binary_search_used_recursion/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_4_BT_binary_search_with_recursion/binary_search_used_recursion/binary_search_used_recursion.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_4_BT_binary_search_with_recursion/binary_search_used_recursion/src/BinarySearchRecursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-13/13_4_BT_binary_search_with_recursion/binary_search_used_recursion/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_1_TH_Sort_algorithm/sort_algorithm/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_1_TH_Sort_algorithm/sort_algorithm/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_1_TH_Sort_algorithm/sort_algorithm/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_1_TH_Sort_algorithm/sort_algorithm/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_1_TH_Sort_algorithm/sort_algorithm/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_1_TH_Sort_algorithm/sort_algorithm/sort_algorithm.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_1_TH_Sort_algorithm/sort_algorithm/src/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_1_TH_Sort_algorithm/sort_algorithm/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_2_TH_Bubble_Sort_By_Step/bubble_sort_by_step/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_2_TH_Bubble_Sort_By_Step/bubble_sort_by_step/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_2_TH_Bubble_Sort_By_Step/bubble_sort_by_step/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_2_TH_Bubble_Sort_By_Step/bubble_sort_by_step/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_2_TH_Bubble_Sort_By_Step/bubble_sort_by_step/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_2_TH_Bubble_Sort_By_Step/bubble_sort_by_step/bubble_sort_by_step.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_2_TH_Bubble_Sort_By_Step/bubble_sort_by_step/src/BubbleSortByStep.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_2_TH_Bubble_Sort_By_Step/bubble_sort_by_step/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_3_TH_selection_sort/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_3_TH_selection_sort/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_3_TH_selection_sort/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_3_TH_selection_sort/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_3_TH_selection_sort/14_3_TH_selection_sort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_3_TH_selection_sort/out/production/14_3_TH_selection_sort/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_3_TH_selection_sort/out/production/14_3_TH_selection_sort/Selection_Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_3_TH_selection_sort/selection_sort/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_3_TH_selection_sort/selection_sort/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_3_TH_selection_sort/selection_sort/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_3_TH_selection_sort/selection_sort/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_3_TH_selection_sort/selection_sort/selection_sort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_3_TH_selection_sort/selection_sort/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_3_TH_selection_sort/selection_sort/src/Selection_Sort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/insertion_sort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/src/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/src/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/src/InsertionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-14/14_4+14_5_Bt_insertion_sort/insertion_sort/src/insertion_sort.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_1_TH_sum_of_numbers/sum_number/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_1_TH_sum_of_numbers/sum_number/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_1_TH_sum_of_numbers/sum_number/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_1_TH_sum_of_numbers/sum_number/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_1_TH_sum_of_numbers/sum_number/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_1_TH_sum_of_numbers/sum_number/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_1_TH_sum_of_numbers/sum_number/src/ReadFileExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_1_TH_sum_of_numbers/sum_number/src/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_1_TH_sum_of_numbers/sum_number/sum_number.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_2_BT_find_max/find_max_value_and_writer/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_2_BT_find_max/find_max_value_and_writer/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_2_BT_find_max/find_max_value_and_writer/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_2_BT_find_max/find_max_value_and_writer/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_2_BT_find_max/find_max_value_and_writer/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_2_BT_find_max/find_max_value_and_writer/find_max_value_and_writer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_2_BT_find_max/find_max_value_and_writer/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_2_BT_find_max/find_max_value_and_writer/src/ReadAndWriteFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_2_BT_find_max/find_max_value_and_writer/src/numbers.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_2_BT_find_max/find_max_value_and_writer/src/result.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_3_BT_copy_file_text/copy_file_text/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_3_BT_copy_file_text/copy_file_text/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_3_BT_copy_file_text/copy_file_text/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_3_BT_copy_file_text/copy_file_text/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_3_BT_copy_file_text/copy_file_text/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_3_BT_copy_file_text/copy_file_text/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_3_BT_copy_file_text/copy_file_text/copy_file_text.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_3_BT_copy_file_text/copy_file_text/src/CopyFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_3_BT_copy_file_text/copy_file_text/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_3_BT_copy_file_text/copy_file_text/src/ReadFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/16_3_BT_copy_file_text/copy_file_text/src/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/lesson-16.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/out/production/lesson-16/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/out/production/lesson-16/ReadFileExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-16/out/production/lesson-16/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_1_TH_Copy_File/copy_file/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_1_TH_Copy_File/copy_file/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_1_TH_Copy_File/copy_file/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_1_TH_Copy_File/copy_file/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_1_TH_Copy_File/copy_file/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_1_TH_Copy_File/copy_file/copy_file.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_1_TH_Copy_File/copy_file/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/student/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/student/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/student/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/student/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/student/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/student/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/student/src/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/student/student.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/test/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/test/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/test/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/test/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-17/17_2_th_student/test/test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_1_Th_thread_by_runnable/thread_by_runnable/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_1_Th_thread_by_runnable/thread_by_runnable/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_1_Th_thread_by_runnable/thread_by_runnable/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_1_Th_thread_by_runnable/thread_by_runnable/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_1_Th_thread_by_runnable/thread_by_runnable/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_1_Th_thread_by_runnable/thread_by_runnable/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_1_Th_thread_by_runnable/thread_by_runnable/src/RunnableDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_1_Th_thread_by_runnable/thread_by_runnable/thread_by_runnable.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_2_Th_racing_car/racing_car/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_2_Th_racing_car/racing_car/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_2_Th_racing_car/racing_car/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_2_Th_racing_car/racing_car/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_2_Th_racing_car/racing_car/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_2_Th_racing_car/racing_car/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_2_Th_racing_car/racing_car/racing_car.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_2_Th_racing_car/racing_car/src/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_2_Th_racing_car/racing_car/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/counter_number.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/src/Counter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/src/runnable/CounterThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/src/runnable/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/src/runnable/MyRunnable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/src/thread/CounterThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/src/thread/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/18_3_TH_count_number/counter_number/test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/thread/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/thread/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/thread/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/thread/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/thread/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/thread/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-18/thread/thread.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_1_TH_validate_email/validate_email/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_1_TH_validate_email/validate_email/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_1_TH_validate_email/validate_email/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_1_TH_validate_email/validate_email/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_1_TH_validate_email/validate_email/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_1_TH_validate_email/validate_email/src/EmailExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_1_TH_validate_email/validate_email/src/EmailExampleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_1_TH_validate_email/validate_email/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_1_TH_validate_email/validate_email/validate_email.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_2_Th_account_validate/validate_account/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_2_Th_account_validate/validate_account/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_2_Th_account_validate/validate_account/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_2_Th_account_validate/validate_account/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_2_Th_account_validate/validate_account/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_2_Th_account_validate/validate_account/src/AccountExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_2_Th_account_validate/validate_account/src/AccountExampleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_2_Th_account_validate/validate_account/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-19/19_2_Th_account_validate/validate_account/validate_account.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_1_th_factory_pattern/animal_factory_pattern/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_1_th_factory_pattern/animal_factory_pattern/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_1_th_factory_pattern/animal_factory_pattern/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_1_th_factory_pattern/animal_factory_pattern/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_1_th_factory_pattern/animal_factory_pattern/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_1_th_factory_pattern/animal_factory_pattern/animal_factory_pattern.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_1_th_factory_pattern/animal_factory_pattern/src/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_1_th_factory_pattern/animal_factory_pattern/src/AnimalFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_1_th_factory_pattern/animal_factory_pattern/src/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_1_th_factory_pattern/animal_factory_pattern/src/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_1_th_factory_pattern/animal_factory_pattern/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_2_th_object_pool/object_pool/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_2_th_object_pool/object_pool/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_2_th_object_pool/object_pool/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_2_th_object_pool/object_pool/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_2_th_object_pool/object_pool/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_2_th_object_pool/object_pool/object_pool.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_2_th_object_pool/object_pool/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_2_th_object_pool/object_pool/src/ObjectPoolDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_2_th_object_pool/object_pool/src/Taxi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_2_th_object_pool/object_pool/src/TaxiNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_2_th_object_pool/object_pool/src/TaxiPool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_2_th_object_pool/object_pool/src/TaxiThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_3_Th_singleton_pattern/singleton_design_pattern/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_3_Th_singleton_pattern/singleton_design_pattern/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_3_Th_singleton_pattern/singleton_design_pattern/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_3_Th_singleton_pattern/singleton_design_pattern/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_3_Th_singleton_pattern/singleton_design_pattern/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_3_Th_singleton_pattern/singleton_design_pattern/singleton_design_pattern.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_3_Th_singleton_pattern/singleton_design_pattern/src/BookBorrower.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_3_Th_singleton_pattern/singleton_design_pattern/src/BookSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_3_Th_singleton_pattern/singleton_design_pattern/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_4_bt_factory_pattern/animal_factory_patterm/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_4_bt_factory_pattern/animal_factory_patterm/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_4_bt_factory_pattern/animal_factory_patterm/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_4_bt_factory_pattern/animal_factory_patterm/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_4_bt_factory_pattern/animal_factory_patterm/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_4_bt_factory_pattern/animal_factory_patterm/shape_factory_pattern.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_4_bt_factory_pattern/animal_factory_patterm/src/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_4_bt_factory_pattern/animal_factory_patterm/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_4_bt_factory_pattern/animal_factory_patterm/src/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_4_bt_factory_pattern/animal_factory_patterm/src/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_4_bt_factory_pattern/animal_factory_patterm/src/ShapeFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_4_bt_factory_pattern/animal_factory_patterm/src/ShapeType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_4_bt_factory_pattern/animal_factory_patterm/src/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_5_Bt_memory_pool/memory_pool/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_5_Bt_memory_pool/memory_pool/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_5_Bt_memory_pool/memory_pool/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_5_Bt_memory_pool/memory_pool/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_5_Bt_memory_pool/memory_pool/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_5_Bt_memory_pool/memory_pool/memory_pool.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_5_Bt_memory_pool/memory_pool/src/Bullet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_5_Bt_memory_pool/memory_pool/src/BulletPool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_5_Bt_memory_pool/memory_pool/src/Gun.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_5_Bt_memory_pool/memory_pool/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson-21/21_5_Bt_memory_pool/memory_pool/src/MemoryPool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/lesson5-Access modifier-static method.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/src/com/codegym/access_modifier/access_modifier/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/src/com/codegym/access_modifier/access_modifier/TestCircle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/src/com/codegym/access_modifier/access_modifier_2/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/src/com/codegym/access_modifier/access_modifier_2/TestClasses.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/src/com/codegym/access_modifier/static_method/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/src/com/codegym/access_modifier/static_method/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/src/com/codegym/access_modifier/static_property/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lesson5-Access modifier-static method/src/com/codegym/access_modifier/static_property/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User/CurrentUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User/CurrentUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/Seller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User/UserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/UserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User/UserID.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User/UserType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserData/userData.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UserManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/case_study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer_data/CustomerListSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/customer_data/DataManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/commons-beanutils-1.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/commons-collections-3.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/commons-collections4-4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/commons-lang3-3.12.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/commons-text-1.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/guava-19.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/guice-4.1.0-no_aop.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/javax.inject-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/jcommander-1.72.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/junit-4.13.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/opencsv-5.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/snakeyaml-1.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/testng-7.1.0.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -980,7 +62,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -989,9 +71,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2Xmh1VfT2iBE7xQrgHKGq6FEMc3" />
+  <component name="ProjectId" id="2YCnkWOz1Og7aojP5cVHMDXz92M" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -1001,48 +84,142 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
-    &quot;database.data.extractors.current.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/CodeGym/module2/source/module2/CaseStudy/case_study&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/CodeGym/module2/source/module2/CaseStudy/case_study/src/data&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="menu.command.product" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\module2\source\module2\CaseStudy\case_study\src\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\module2\source\module2\CaseStudy\case_study\src\data" />
+      <recent name="D:\CodeGym\module2\source\module2\CaseStudy\case_study\src\data\product" />
+      <recent name="D:\CodeGym\module2\source\module2\CaseStudy\case_study\src\data\customer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="case_study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8c3c95ad-54e6-4316-ab0c-774c82b76cfc" name="Changes" comment="" />
-      <created>1699239948205</created>
+      <changelist id="b5dd08fa-4931-45d1-92c8-8fada0af3fb5" name="Changes" comment="" />
+      <created>1700038573225</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1699239948205</updated>
-      <workItem from="1699239949622" duration="6691000" />
-      <workItem from="1699250137626" duration="1779000" />
-      <workItem from="1699264638926" duration="260000" />
-      <workItem from="1699323123931" duration="50000" />
-      <workItem from="1699323206083" duration="539000" />
-      <workItem from="1699323762525" duration="4652000" />
-      <workItem from="1699342308391" duration="56000" />
-      <workItem from="1699496366824" duration="13000" />
-      <workItem from="1699497985439" duration="707000" />
-      <workItem from="1699581661089" duration="52000" />
-      <workItem from="1699672122763" duration="74000" />
-      <workItem from="1699684696348" duration="96000" />
-      <workItem from="1699687578538" duration="17000" />
-      <workItem from="1699690891082" duration="1677000" />
+      <updated>1700038573225</updated>
+      <workItem from="1700038576269" duration="429000" />
+      <workItem from="1700039055616" duration="4149000" />
+      <workItem from="1700097926792" duration="336000" />
+      <workItem from="1700098322941" duration="13000000" />
+      <workItem from="1700116905416" duration="5723000" />
+      <workItem from="1700122940726" duration="3140000" />
+      <workItem from="1700185861032" duration="1482000" />
+      <workItem from="1700187440476" duration="3608000" />
+      <workItem from="1700191175951" duration="7318000" />
+      <workItem from="1700289258391" duration="5351000" />
+      <workItem from="1700374749637" duration="7673000" />
+      <workItem from="1700443443313" duration="11919000" />
+      <workItem from="1700455529380" duration="1928000" />
+      <workItem from="1700462618701" duration="6267000" />
+      <workItem from="1700469112132" duration="5853000" />
+      <workItem from="1700489357552" duration="3777000" />
+      <workItem from="1700529406069" duration="12100000" />
+      <workItem from="1700541670389" duration="236000" />
+      <workItem from="1700547682525" duration="13631000" />
+      <workItem from="1700571321124" duration="5834000" />
+      <workItem from="1700616780353" duration="29155000" />
+      <workItem from="1700656216128" duration="15865000" />
+      <workItem from="1700698968978" duration="8043000" />
+      <workItem from="1700709007262" duration="585000" />
+      <workItem from="1700712404644" duration="49000" />
+      <workItem from="1701048258615" duration="2094000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ProductsManager/ActiveProduct.java</url>
+          <line>9</line>
+          <properties class="ProductsManager.ActiveProduct" method="deActive">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/menu/command/RegisterCommand.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/validator_and_check/Check/UserIsExist.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/menu/command/user/SearchSellerCommand.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ProductsManager/AddProduct.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/menu/command/user/ReactiveUserCommand.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/menu/command/user/ProductManagerCommand.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

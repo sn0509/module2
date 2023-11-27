@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2db8a941-945e-4f96-80c1-fe14204ceaa1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CaseStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/.idea/libraries/mindrot_jbcrypt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/.idea/libraries/opencsv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/.idea/libraries/spring-security-crypto-6.1.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_study/.idea/libraries/spring_security_crypto_6_1_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CaseStudy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/case_study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/case_study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/User/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/src/user/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/User/CurrentUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/src/User/CurrentUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/User/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/src/user/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/User/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/src/user/Seller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/User/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/src/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/User/UserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_study/src/user/UserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/User/UserID.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/User/UserType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/UserData/userData.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/UserManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/case_study.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/customer_data/CustomerListSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/customer_data/DataManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/commons-beanutils-1.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/commons-collections-3.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/commons-collections4-4.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/commons-lang3-3.12.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/commons-text-1.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/guava-19.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/guice-4.1.0-no_aop.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/javax.inject-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/jcommander-1.72.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/junit-4.13.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/opencsv-5.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/snakeyaml-1.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_study/src/lib/testng-7.1.0.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2YCoWOgEcWnVkff1hwa0Rhloro9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/CodeGym/module2/source/module2/CaseStudy/case_study",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2db8a941-945e-4f96-80c1-fe14204ceaa1" name="Changes" comment="" />
+      <created>1700038952815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700038952815</updated>
+      <workItem from="1700038953810" duration="53000" />
+      <workItem from="1700187418723" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
